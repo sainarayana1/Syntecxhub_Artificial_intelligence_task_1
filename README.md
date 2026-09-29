@@ -42,3 +42,4 @@ test_maze_solver.py   # unit tests
 mazes/                # sample mazes (solvable + unreachable)
 requirements.txt
 ```
+<img width="560" height="331" alt="image" src="https://github.com/user-attachments/assets/54f4cf42-0ed7-4ac0-a96f-c5ba7f7f2ffb" />
