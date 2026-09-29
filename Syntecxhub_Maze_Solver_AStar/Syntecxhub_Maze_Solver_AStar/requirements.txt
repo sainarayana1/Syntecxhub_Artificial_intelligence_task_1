@@ -1,0 +1,2 @@
+# Only needed for the optional --plot flag
+matplotlib>=3.5
