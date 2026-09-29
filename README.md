@@ -1,1 +1,0 @@
-# Syntecxhub_Artificial_intelligence_task_1
